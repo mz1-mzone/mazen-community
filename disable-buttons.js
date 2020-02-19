@@ -1,4 +1,4 @@
-
+<script>
 // The Date And Time 
 
 $(document).ready(function() {    
@@ -11,3 +11,4 @@ $(document).ready(function() {
     $("#Meeting-point-rome").prop("readonly", true);
     
 });
+</script>
