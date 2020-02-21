@@ -1,4 +1,4 @@
-	$("#removal-rome").on('click', ()=>{  
+$("#removal-rome").on('click', ()=>{  
 
     rx = 0;
     ry = 0;
