@@ -1,3 +1,5 @@
+	$("#removal-rome").on('click', ()=>{  
+
     rx = 0;
     ry = 0;
     rz = 0;
@@ -9,3 +11,4 @@
     $("#price-rome").val("Total Price:"+"€"+rpr); 
   
     document.querySelector('.rome-totalprice').innerHTML = "Total: "+"€"+rpr;
+  });
