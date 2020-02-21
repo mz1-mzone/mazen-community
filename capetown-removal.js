@@ -1,5 +1,3 @@
-$("#removal-capetown").on('click', ()=>{  
-
     cx = 0;
     cy = 0;
     cz = 0;
