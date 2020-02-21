@@ -1,10 +1,10 @@
 $(document).ready(function() {    
-    $("#Date-Time").prop("readonly", true);
-
-    $("#passengers-total-rome").prop("readonly", true);
-    //$("#passengers-total-rome").val(p); 
-    
+    $("#passengers-total-rome").prop("readonly", true);    
+    $("#passengers-total-capetown").prop("readonly", true);    
+    $("#passengers-total-vatican").prop("readonly", true);    
     $("#price-rome").prop("readonly", true);
-    $("#Meeting-point-rome").prop("readonly", true);
+    $("#price-capetown").prop("readonly", true);
+    $("#price-vatican").prop("readonly", true);
+    $("#totalnumber").prop("readonly", true);
     
 });
