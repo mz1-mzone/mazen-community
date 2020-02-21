@@ -1,6 +1,3 @@
-<script>
-// The Date And Time 
-
 $(document).ready(function() {    
     $("#Date-Time").prop("readonly", true);
 
@@ -11,4 +8,3 @@ $(document).ready(function() {
     $("#Meeting-point-rome").prop("readonly", true);
     
 });
-</script>
