@@ -1,3 +1,4 @@
+<script>
 $(document).ready(function() {    
     $("#passengers-total-rome").prop("readonly", true);    
     $("#passengers-total-capetown").prop("readonly", true);    
@@ -8,3 +9,4 @@ $(document).ready(function() {
     $("#totalnumber").prop("readonly", true);
     
 });
+</script>
